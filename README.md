@@ -1,6 +1,7 @@
 # Rick-roll
 ## Introduction 
-Ever wanted to recreate the rickrolling just for fun or feeling nostalgic of bloody wars of ancient times? Well, this is just the right file for you.  
+Ever wanted to recreate the rickrolling just for fun or feeling nostalgic of bloody wars of ancient times?  
+Well, this is just the right file for you.  
 With its powers, your friends can suffer in infinity(unless they're also tech savvy and know what to do).  
 I created this for personal use, but I'm pretty sure there are people out there who have great hobbies like I do so I went to publish it.  
 Currently it is only compiled for Windows.  
