@@ -1,4 +1,6 @@
 # Rick-roll
+
+![icon](https://github.com/404errorg6/Rick-roll/blob/main/pb.ico)
 ## Introduction 
 Ever wanted to recreate the rickrolling just for fun or feeling nostalgic of bloody wars of ancient times?  
 Well, this is just the right file for you.  
