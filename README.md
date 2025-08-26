@@ -10,18 +10,21 @@ Currently it is only compiled for Windows.
 ## Working
 The installer(msi file) when executed does the following:
 1. Copies the rickroll(disguised as PerformanceBoost) in these folders:
-- `%APPDATA%/Roaming/YourFavStar/`(Decoy folder)
--   `C:Program Files\Ricky\`
-2. It create a shortcut of exe in `%APPDATA%`, to startup folder which you can see by writing `startup` in file explorer.
-3. Creates a shortcut `%APPDATA%` exe to desktop(so that they think that's the only file).
-4. Adds the registry key for the exe in `Program Files` folder for double persistence.
+- `%APPDATA%\Roaming\YourFavStar\PerformanceBoost.exe`(Decoy folder)
+-   `C:Program Files(x86)\DefenseSystem\setup.exe`
+2. Creates a shortcut `%APPDATA%` exe to desktop(so that they think that's the only file).
+3. Adds the registry key for the exe in `Program Files` folder for persistence.
 
+The exe when executed does the following:
+1. Opens the rickroll link in default browser
+2. Display a messagebox saying "Get a better PC peasant 💀" after a delay.
 
+The registry executes on every boot.  
 **Even if your friend stops it from autostartup or even delete it from `%APPDATA%` folder(decoys), the registry and `Program Files` exe are there for persistence.**
 #### Best part: 
 It's not detected as a malware, because it isn't.
 ## Removal
-- Go to Settings: Apps.
+- Go to Windows Settings: Apps.
 - Uninstall it from there. 
 And you're done!
 #### It's for fun and trolling only, hope you enjoy it. 
