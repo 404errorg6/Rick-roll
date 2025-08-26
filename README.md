@@ -20,6 +20,7 @@ The exe when executed does the following:
 2. Display a messagebox saying "Get a better PC peasant 💀" after a delay.
 
 The registry executes on every boot.  
+
 **Even if your friend stops it from autostartup or even delete it from `%APPDATA%` folder(decoys), the registry and `Program Files` exe are there for persistence.**
 #### Best part: 
 It's not detected as a malware, because it isn't.
